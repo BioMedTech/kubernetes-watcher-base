@@ -1,4 +1,4 @@
-package kubernetes_watcher_base
+package watcher
 
 import (
 	"k8s.io/apimachinery/pkg/runtime"

@@ -1,4 +1,4 @@
-module github.com/biomedtech/kubernetes-watcher-base
+module github.com/biomedtech/watcher
 
 go 1.14
 
